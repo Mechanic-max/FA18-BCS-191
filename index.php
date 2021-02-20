@@ -1,1 +1,1 @@
-<php include("./sample.html") ?>
+<php include("./index.html") ?>
