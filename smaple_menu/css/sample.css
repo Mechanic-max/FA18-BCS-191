@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    background-color:silver;
+    overflow: hidden;
+    padding: 0px;
+}
+a{
+    color:white;
+    font-size: medium;
+}
+li{
+    display: inline;
+    padding: 2pt;
+    background-color:cadetblue
+}
+h1{
+    color:blue;
+}
