@@ -1,0 +1,43 @@
+
+table
+{
+    border: 1px dashed black;
+    background-color: black;
+    }
+tr{
+    background-color:seashell;
+}
+td
+{
+    padding: 2px;
+    border: 1px solid seashell;
+    }
+body{
+    border-left: 100px solid silver;
+    border-top-style: solid;
+    background-color:rgb(128, 128, 128);
+    border-right: 100px solid silver;
+    border-bottom-style: solid;
+    padding: 10pt;
+    text-align:justify;
+    text-overflow: inherit;
+    text-size-adjust: 100;
+}
+#name{
+    font-size: medium;
+}
+#heading{
+    background-color:silver;
+}
+#Contact{
+    size: small;
+    font-size: small;
+    overflow: hidden;
+}
+h2{
+    text-decoration: underline;
+}
+
+#2{
+    padding: 10px;
+}
