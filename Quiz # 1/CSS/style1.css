@@ -1,0 +1,15 @@
+li{
+    display: inline;
+}
+
+
+#Second{
+    float: right;
+}
+#Items{
+    float: right;
+    width: 100px;
+}
+body{
+    margin: 0px;
+}
